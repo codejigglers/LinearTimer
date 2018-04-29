@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorInitial">#FFC107</color>
-    <color name="colorProgress">#00796B</color>
+    <color name="colorInitial">#febb6a</color>
+    <color name="colorProgress">cd5920</color>
 </resources>
